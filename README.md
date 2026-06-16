@@ -14,8 +14,8 @@
 - SQL
 - REST API
 - Git & GitHub
-- Docker (базово)
-- Linux (базово)
+- Docker
+- Linux
 
 ---
 
